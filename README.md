@@ -26,7 +26,7 @@
 - Epochs: 5
 
 ### Evaluation
-- Test accuracy achieved: ~98%
+- Test accuracy achieved: ~97.57%
 - Model performs well on unseen data
 
 ### Prediction Pipeline
